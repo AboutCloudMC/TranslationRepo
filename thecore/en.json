@@ -1,10 +1,10 @@
 {
     "messages": {
-	"prefix": "§cTheCore §8| §7",
-	"syntax": "Invalid syntax.",
+		"prefix": "§cTheCore §8| §7",
+		"syntax": "Invalid syntax.",
         "loadTranslations_success": "Loading Translations successful",
-	"command.rank.hasRank": "§b{player} §7has the rank {rank}",
-	"command.rank.rankNotFound": "The rank §b{rank}§7 does not exist.",
-	"command.rank.promotion": "§b{player} §7was promoted the rank {rank}"	
+		"command.rank.hasRank": "§b{player} §7has the rank {rank}",
+		"command.rank.rankNotFound": "The rank §b{rank}§7 does not exist.",
+		"command.rank.promotion": "§b{player} §7was promoted the rank {rank}"	
     }
 }
