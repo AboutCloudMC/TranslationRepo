@@ -1,0 +1,12 @@
+{
+    "items": {
+        "excalibur": "&6Excalibur",
+        "sword_of_light": "&eSword of Light",
+        "shield_of_valor": "&bShield of Valor",
+        "potion_of_healing": "&cPotion of Healing",
+        "mystic_wand": "&5Mystic Wand"
+    },
+    "messages": {
+        "loadTranslations_success": "Laden war erfolgreich"
+    }
+}
