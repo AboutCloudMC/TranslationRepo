@@ -7,6 +7,7 @@
         "mystic_wand": "&5Mystic Wand"
     },
     "messages": {
-        "loadTranslations_success": "Laden war erfolgreich"
+        "loadTranslations_success": "Laden war erfolgreich",
+        "pinfo": "PInfo Command wurde ausgeführt."
     }
 }
